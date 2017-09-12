@@ -1,7 +1,7 @@
 # SimonGame
 Simon Game written in verilog!
 
-# Group Members
+# Group Members:-
 # Dunni Adenuga
 # Bobby Cao
 # Brooke Bullek

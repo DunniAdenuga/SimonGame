@@ -1,4 +1,5 @@
 # SimonGame
+Simon Game written in verilog!
 
 # Group Members
 # Dunni Adenuga
